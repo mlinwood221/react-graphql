@@ -1,1 +1,1 @@
-{"data":"Next.js React Apollo client with Graphcool GraphQL server example2019-11-04T18:06:06+03:00"}
+{"data":"Next.js React Apollo client with Graphcool GraphQL server example2020-02-17T18:06:06+03:00"}
